@@ -1,6 +1,10 @@
 # 🧠 Brain MRI Classification with CNN and Transfer Learning
 Bu proje, beyin tümörlerini MRI görüntüleri üzerinden sınıflandırmak amacıyla Evrişimli Sinir Ağları (CNN) ve Transfer Öğrenme yöntemlerini karşılaştırmalı olarak kullanan bir derin öğrenme uygulamasıdır. Proje, MATLAB ortamında geliştirilmiş olup, aynı zamanda kullanıcı dostu bir GUI (Graphical User Interface) içermektedir.
 
+# Uygulama Dosyaları
+Modeller, uygulama dosyası ve rapor drive dosyasına eklenmiştir. İncelemek için aşağdaki linkten ulaşabilirsiniz.
+(https://drive.google.com/drive/folders/1e3qlQ4WazPfXwaF_7vX_QLLyVtfmDbd5?usp=sharing)
+
 ## 👥 Ekip
 Bu çalışma, Derin Öğrenme dersi kapsamında 5 kişilik bir ekip tarafından gerçekleştirilmiştir. Her bir ekip üyesi farklı bir mimari üzerine çalışmış ve modeli eğitmiştir. Aynı zamanda proje dokümantasyonu
 için detaylı bir rapor hazırlanmıştır. PDF dosyasına repository üzerinden ulaşabilirsiniz.
