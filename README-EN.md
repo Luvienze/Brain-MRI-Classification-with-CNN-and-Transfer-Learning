@@ -1,6 +1,10 @@
 # 🧠 Brain MRI Classification with CNN and Transfer Learning
 This project is a deep learning application for classifying brain tumors from MRI images using Convolutional Neural Networks (CNN) and Transfer Learning. Developed in MATLAB, the project also includes a user-friendly Graphical User Interface (GUI) for practical usage.
 
+## Application Files
+Models, GUI file and detailed document in tr can be found in drive link below.
+(https://drive.google.com/drive/folders/1e3qlQ4WazPfXwaF_7vX_QLLyVtfmDbd5?usp=sharing)
+
 ## 👥 Team
 This project was developed by a team of five members as part of the Deep Learning course. Each team member trained a different neural network model.
 
