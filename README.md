@@ -5,6 +5,10 @@ Bu proje, beyin tümörlerini MRI görüntüleri üzerinden sınıflandırmak am
 Modeller, uygulama dosyası ve rapor drive dosyasına eklenmiştir. İncelemek için aşağdaki linkten ulaşabilirsiniz.
 (https://drive.google.com/drive/folders/1e3qlQ4WazPfXwaF_7vX_QLLyVtfmDbd5?usp=sharing)
 
+GUI
+-   -> models
+-   -> app1.mlap
+
 ## 👥 Ekip
 Bu çalışma, Derin Öğrenme dersi kapsamında 5 kişilik bir ekip tarafından gerçekleştirilmiştir. Her bir ekip üyesi farklı bir mimari üzerine çalışmış ve modeli eğitmiştir. Aynı zamanda proje dokümantasyonu
 için detaylı bir rapor hazırlanmıştır. PDF dosyasına repository üzerinden ulaşabilirsiniz.
