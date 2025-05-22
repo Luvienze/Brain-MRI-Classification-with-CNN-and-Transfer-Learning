@@ -10,8 +10,8 @@ GUI
 -   -> app1.mlap
 
 ## 👥 Ekip
-Bu çalışma, Derin Öğrenme dersi kapsamında 5 kişilik bir ekip tarafından gerçekleştirilmiştir. Her bir ekip üyesi farklı bir mimari üzerine çalışmış ve modeli eğitmiştir. Aynı zamanda proje dokümantasyonu
-için detaylı bir rapor hazırlanmıştır. PDF dosyasına repository üzerinden ulaşabilirsiniz.
+Bu çalışma, Derin Öğrenme dersi kapsamında 5 kişilik bir ekip tarafından gerçekleştirilmiştir. Her bir ekip üyesi farklı bir mimari üzerine çalışmış ve modeli eğitmiştir. Ben bu projede GoogleNet ile eğitim gerçekleştirdim. Aynı zamanda proje dokümantasyonu
+için detaylı bir rapor hazırlanmıştır. PDF dosyasına repository üzerinden ulaşabilirsiniz. 
 
 ## 🧪 Kullanılan Modeller
 - ✅ GoogLeNet
